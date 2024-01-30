@@ -2,13 +2,10 @@
 
 A test repo for class
 
-## Here is a Secondary Headline 
+## This for DS 2002 
 
-This is for ds2002. as;ldkfdklsagj;ldsjg;lasdjglskjfasklfjkdslfdksjf
-dasnfkadjsfilsdhjaflskdjfo
-aidshf;aisdughaiulfsghjldskafh;fh
-asojfkasl;dgnv;aosidjfoisejf;oipsdjfapjd
-iadosfjasodfj
+Today's class data is Jan 30th, and we are practicing with GitHub.
 
+Here is my email:
 - yaq7fm@virginia.edu
-- https://www.google.com/
+
